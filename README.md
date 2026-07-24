@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SaumyaKhobragade/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SaumyaKhobragade/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaumyaKhobragade/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0560-subarray-sum-equals-k](https://github.com/SaumyaKhobragade/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SaumyaKhobragade/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SaumyaKhobragade/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
